@@ -19,8 +19,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 <!--
-统计卡：先在 Settings → Public profile → 勾选 "Include private contributions on my profile"
-再启用下面的图片，否则私有仓的提交不计入，卡片会接近全 0，反而难看。
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=qwqianli&show_icons=true&theme=tokyonight&hide_rank=false)
+统计卡只统计公开仓库的数据。私有仓的提交不会计入这张卡，
+但会出现在主页贡献图里（需开启 Private contributions）。
 -->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=qwqianli&show_icons=true&theme=tokyonight&locale=cn)
