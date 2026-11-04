@@ -21,6 +21,9 @@
 <!--
 统计卡只统计公开仓库的数据。私有仓的提交不会计入这张卡，
 但会出现在主页贡献图里（需开启 Private contributions）。
+
+用的是 profile-summary-cards 而非更常见的 github-readme-stats：
+后者公共实例长期 503，图上会显示裂图。
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=qwqianli&show_icons=true&theme=tokyonight&locale=cn)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qwqianli&theme=tokyonight)
